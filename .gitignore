@@ -36,5 +36,5 @@ npm-debug.log
 /assets/node_modules/
 
 # Ignore the build artifacts of the assets
-.tool-version
+.tool-versions
 
